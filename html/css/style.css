@@ -151,7 +151,9 @@ a,
     -o-transition: all .3s ease-in-out;
     transition: all .3s ease-in-out;
 }
-
+.logo img{
+    width:20%;
+}
 img {
     max-width: 100%;
     height: auto;
